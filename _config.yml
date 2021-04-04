@@ -9,10 +9,10 @@ name: cenoApps
 author: Kenneth Nordman
 
 # Short bio or description (displayed in the header)
-description: This is cenoApps homepage
+description: cenoApps project page
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/CENO.png
 
 #
 # Flags below are optional
@@ -24,8 +24,8 @@ footer-links:
   email: cenoApps@gmail.com
   facebook:
   flickr:
-  github: keno1s/cenoApps
-  instagram:
+  github: keno1se/cenoApps
+  instagram:ceno.insta
   linkedin: kenneth-nordman
   pinterest:
   rss: rss
