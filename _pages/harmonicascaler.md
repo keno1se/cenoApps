@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AAA
-permalink: /getting-started/
+title: HarmonicaScaler
+permalink: /harmonicascaler/
 ---
 
 ### test to change getting started
