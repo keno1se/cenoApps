@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cenoApps
+title: About cenoApps
 permalink: /about/ 
 ---
 
