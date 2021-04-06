@@ -24,14 +24,15 @@ footer-links:
   email: cenoApps@gmail.com
   facebook:
   flickr:
-  github: keno1se/cenoApps
+  # github: keno1se/cenoApps
   instagram: insta.ceno
   linkedin: kenneth-nordman
   pinterest:
   rss: rss
   twitter:
   stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  # youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://youtu.be/sjb7oH3VRss  
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
