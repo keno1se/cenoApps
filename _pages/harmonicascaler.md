@@ -4,10 +4,20 @@ title: HarmonicaScaler
 permalink: /harmonicascaler/
 ---
 
-### test to change getting started
+The diatonic Richter tuned harmonica is truly a mighty little instrument. It can produce the full chromatic scale over three octaves for some scales. This humble piece fits in your pocket.  
 
-This is the AAA page old getting started
+To learn a certain scale may not be that difficult but then to transpose it to another key  
+can be a bit of a struggle; every individual tone to a new value; then find those on the  
+harmonica; web search; paper and pen and lost notes…  
 
-## Sitemap
+HarmonicaScaler is powerful and makes the process easier and it’s very visual as well.
 
-The generated sitemap of your blog can be found at <https://keno1se.github.io/sitemap>. You can see the example sitemap feed over [here](https://github.com/keno1se/cenoApps/sitemap).
+The chromatic scale consists of 12 tones: C, C♯, D, E♭, E, F, F♯, G, A♭, A, B♭, B
+
+Scales over one harmonica
+Even though the diatonic harmonica is designed to play in a single key; all the twelve chromatic tones can be played; and can be used to build scales up on. In other words: One scale can be played in 12 different keys on one harmonica. HarmonicaScaler works with 10 different scales. So over twelve keys the possible number of scales that can be displayed are:
+10 scales x 12 keys = 120 scales
+
+Scales over twelve harmonicas
+For every tone in the chromatic scale it exists a harmonica in that key. So over twelve harmonicas the possible number of scales that can be displayed are:
+10 scales x 12 keys x 12 harmonicas = 1440 scales
