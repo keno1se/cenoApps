@@ -19,7 +19,7 @@ harmonica; web search; paper and pen and lost notes…
 
 HarmonicaScaler is powerful and makes the process easier and it’s very visual as well.
 
-The chromatic scale consists of 12 tones: C, C♯, D, E♭, E, F, F♯, G, A♭, A, B♭, B
+> The chromatic scale consists of 12 tones: C, C♯, D, E♭, E, F, F♯, G, A♭, A, B♭, B
 
 Scales over one harmonica
 Even though the diatonic harmonica is designed to play in a single key; all the twelve chromatic tones can be played; and can be used to build scales up on. In other words: One scale can be played in 12 different keys on one harmonica. HarmonicaScaler works with 10 different scales. So over twelve keys the possible number of scales that can be displayed are:
