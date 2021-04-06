@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
+title: About CenoApps
 permalink: /about/ 
 ---
 
-Kenneth Nordman is my name. I enjoy developing in Angular, Cordova and Android. I'll collect project related information in this page.
+**Ke**nneth **No**rdman is my name. In short: KeNo, with better styling: *Ceno
 
-cenoApps is a collection of projects. 
+I enjoy developing in Angular, Cordova and Android. I'll collect project related information on this page.
+
+**cenoApps** is a collection of projects. 
 
 
