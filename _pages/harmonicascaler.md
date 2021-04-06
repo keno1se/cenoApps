@@ -4,8 +4,12 @@ title: HarmonicaScaler
 permalink: /harmonicascaler/
 ---
 
-HarmonicaScaler will display on Richter tuned diatonic harmonicas:
-*Layout of 12 different keys *All 12 positions *Common scales* 
+HarmonicaScaler will display on Richter tuned diatonic harmonicas:  
+- Layout of 12 different keys  
+- All 12 positions  
+- Common scales on top
+
+
 
 The diatonic Richter tuned harmonica is truly a mighty little instrument. It can produce the full chromatic scale over three octaves for some scales. This humble piece fits in your pocket.  
 
