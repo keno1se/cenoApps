@@ -8,6 +8,8 @@ permalink: /about/
 
 I enjoy developing in Angular, Cordova and Android. I'll collect project related information on this page.
 
-**cenoApps** is a collection of projects. 
+{% include pullquote.html quote="The **cenoApps** web page is a hub and collection of project related information" %}.
+
+
 
 
