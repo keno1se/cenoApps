@@ -4,7 +4,7 @@ title: About cenoApps
 permalink: /about/ 
 ---
 
-The cenoApps web page is a huband collection of project related information.
+The cenoApps web page is a hub and collection of project related information.
 
 
 **Ke**nneth **No**rdman is my name. In short: KeNo, with better styling: *Ceno*.
