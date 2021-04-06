@@ -14,6 +14,8 @@ Add a line with ---
 ---
 
 
-This is the github files for the cenoApps homepage
+This is the github files for the cenoApps homepage  
+
+https://keno1se.github.io/cenoApps
 
 ---
