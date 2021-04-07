@@ -10,7 +10,10 @@ permalink: /harmonicascaler/
 Instagram  
 [Demo change harmonica layout](https://www.instagram.com/p/CMlBqlepcQX/)  
 [Demo Position diagram](https://www.instagram.com/p/CMjVDMnJjyP/)  
-[Demo change scales](https://www.instagram.com/p/CMjTtElJjMU/)  
+[Demo view scaler by key](https://www.instagram.com/p/CMjTtElJjMU/)  
+
+Youtube  
+[Demo Display scales on the harmonica layout](https://youtu.be/sjb7oH3VRss)  
 
 
 
