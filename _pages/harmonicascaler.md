@@ -6,10 +6,12 @@ permalink: /harmonicascaler/
 
 <a href='https://play.google.com/store/apps/details?id=keno1se.github.io.free&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blanc" ><img id="badge" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' /></a>
 
-<p id="top">Links</p>  
+<p id="top">Links</p>    
 <a href="#Videos">Jump to Videos</a>   
 <a href="#aboutHS">Jump to About Harmonica scaler</a>  
 
+
+---
 
 <h2 id="Videos">Videos</h2>
 <!-- # Videos  -->
@@ -57,6 +59,8 @@ Even though the diatonic harmonica is designed to play in a single key; all the 
 Scales over twelve harmonicas
 For every tone in the chromatic scale it exists a harmonica in that key. So over twelve harmonicas the possible number of scales that can be displayed are:
 10 scales x 12 keys x 12 harmonicas = **1440 scales**  
+
+---
 
 <a href="#top">Jump back to top</a>   
 
