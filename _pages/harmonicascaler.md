@@ -6,13 +6,22 @@ permalink: /harmonicascaler/
 
 <a href='https://play.google.com/store/apps/details?id=keno1se.github.io.free&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blanc" ><img id="badge" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' /></a>
 
-<a href="#Videos">Jump to Videos</a>
+<a href="#Videos">Jump to Videos</a>   
+<a href="#aboutHS">Jump to About Harmonica scaler</a>  
+
+
 <h2 id="Videos">Videos</h2>
 <!-- # Videos  -->
 Instagram  
-[Demo change harmonica layout](https://www.instagram.com/p/CMlBqlepcQX/)  
+[Demo change harmonica layout](https://www.instagram.com/p/CMlBqlepcQX/)   
 [Demo Position diagram](https://www.instagram.com/p/CMjVDMnJjyP/)  
 [Demo view scaler by key](https://www.instagram.com/p/CMjTtElJjMU/)  
+[Where goes my C?](https://www.instagram.com/p/CNiu2voACyu/)  
+[FACE](https://www.instagram.com/reel/CNitZ-HJWpC/)  
+[Dominant 7th](https://www.instagram.com/reel/CNisoalJZKA/)   
+[Position 1, 5, 9 by menu](https://www.instagram.com/reel/CNip7BWppr3/)    
+[Positions select by finger tapping](https://www.instagram.com/reel/CNipIt0gBB6/)  
+
 
 Youtube  
 [Demo Display scales on the harmonica layout](https://youtu.be/sjb7oH3VRss)  
@@ -20,9 +29,7 @@ Youtube
 
 
 
-
-
-
+<h2 id="aboutHS">About Harmonica scaler</h2>  
 
 HarmonicaScaler will display on Richter tuned diatonic harmonicas:  
 - Layout of 12 different keys  
