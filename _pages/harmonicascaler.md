@@ -30,6 +30,8 @@ Youtube
 [Demo Display scales on the harmonica layout](https://youtu.be/sjb7oH3VRss)  
 
 ---
+
+
 <a href="#badge">Jump back to top</a>   
 
 
@@ -62,5 +64,5 @@ For every tone in the chromatic scale it exists a harmonica in that key. So over
 
 ---
 
-<a href="#top">Jump back to top</a>   
+<a href="#badge">Jump back to top</a>   
 
