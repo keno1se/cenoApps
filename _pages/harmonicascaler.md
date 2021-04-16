@@ -74,14 +74,14 @@ For every tone in the chromatic scale it exists a harmonica in that key. So over
 
 ---
 
-## Initial tone selection
+# Initial tone selection
 
 One tone in selected: "C". Scales are displayed for that tone.  
 Click/tap on any other tone to change scales.  
-    * Find easy the major and minor chords for the given tone.  
-    * The blues scale has scale degree IV and V, in between an extra added "flat five"  
+        * Find easy the major and minor chords for the given tone.  
+        * The blues scale has scale degree IV and V, in between an extra added "flat five"  
 
-<img src="../images/NewInitBuildScaleCH300V436.png" alt="NewInitBuildScaleCH300V436.png">
+<img src="../images/AppPIc/NewInitBuildScaleCH300V436.png" alt="NewInitBuAppPIc/ildScaleCH300V436.png">
 
 
 
