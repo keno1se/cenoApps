@@ -28,7 +28,7 @@ Instagram
 [Dominant 7th](https://www.instagram.com/reel/CNisoalJZKA/)   
 [Position 1, 5, 9 by menu](https://www.instagram.com/reel/CNip7BWppr3/)    
 [Positions select by finger tapping](https://www.instagram.com/reel/CNipIt0gBB6/)  
-[Test recording](https://www.instagram.com/reel/CNvDChFgY7F/)  
+[Test recording](https://www.instagram.com/reel/CNvDChFgY7F/?igshid=1qxv0682jtsyn)  
 
 
 Youtube  
