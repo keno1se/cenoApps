@@ -81,7 +81,7 @@ Click/tap on any other tone to change scales.
     * Find easy the major and minor chords for the given tone.  
     * The blues scale has scale degree IV and V, in between an extra added "flat five"  
 
-<img src="assets/img/NewInitBuildScaleCH300V436.png" alt="NewInitBuildScaleCH300V436.png" class=" mat-elevation-z2 ">
+<img src="./imgages/NewInitBuildScaleCH300V436.png" alt="NewInitBuildScaleCH300V436.png">
 
 
 
