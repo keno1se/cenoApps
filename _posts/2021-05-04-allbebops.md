@@ -17,6 +17,7 @@ The five most common Bebop scales
 | dorian         | W H H H W W H W  |  C D Eb **E** F G A Bb  |
 
 
-
+Bebop scale is created by adding a chromatic passing note and thus forming the eight note scale.  
+In the table above the added notes are highlighted as bold.
 
 ---------------------------------------
