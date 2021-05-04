@@ -5,19 +5,13 @@ categories: [Information, cenoApps]
 excerpt: Five bebop scales has been implemented in Harmonica scaler
 ---
 
-The melodic minor scale is very useful. It fits major, minor and dominant chords. 
-Easy to build but as always takes time to transpose to other keys; Harmonica scaler app comes handy for that. 
+Five common Bebop scales   
 
-Start from the major scale then lower the third scale degree one semitone. 
-
-C, D, **E**, F, G, A, B : C-major scale  
-C, D, **Eb**, F, G, A, B : C-melodic minor scale  
-
-
-The tradition is to use the melodic minor when ascending but not using the same scale to descend back again. 
-Then the natural minor is used instead. See example in C below:  
-
-
+1. dominant
+2. major
+3. melodic
+4. harmonic
+5. dorian
 
 
 | ascending           | descending       |  
