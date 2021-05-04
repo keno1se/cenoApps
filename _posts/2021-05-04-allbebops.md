@@ -5,7 +5,7 @@ categories: [Information, cenoApps]
 excerpt: Five bebop scales has been implemented in Harmonica scaler
 ---
 
-The five most common Bebop scales created by {% include pullquote.html quote="adding a chromatic passing note" %}. 
+The five most common Bebop scales created by {% include pullquote.html quote="adding a chromatic passing note" %}
 and thus forming the eight note scale. In the table the added notes are highlighted as bold.
 
 |                | formula          | C-scale                 |
