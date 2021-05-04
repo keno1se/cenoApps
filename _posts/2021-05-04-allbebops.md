@@ -14,10 +14,11 @@ Five common Bebop scales
 5. dorian
 
 
-| scale          | formula          | C-scale           |
-| -------------- | -----------------| ----------------- |
-| dominant       | W W H W W H H H  |  C D E F G A Bb B |
-| major          | W W H W H H W H  |  C D E F G Ab A B |
+|                | formula          | C-scale            |
+| -------------- | -----------------| ------------------ |
+| dominant       | W W H W W H H H  |  C D E F G A Bb B  |
+| major          | W W H W H H W H  |  C D E F G Ab A B  |
+| melodic        | W H W W H H W H  |  C D Eb F G Ab A B |
 
 
 
