@@ -18,5 +18,7 @@ and thus forming the eight note scale. In the table the added notes are highligh
 
 
 
-
+<a href="https://www.facebook.com/sharer/sharer.php?u=<URL>&t=<TITLE>" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Facebook">
+  
+  
 ---------------------------------------
