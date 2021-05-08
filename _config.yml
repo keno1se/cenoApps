@@ -54,8 +54,15 @@ google_analytics: UA-43339302-11
 # enforce_ssl: https://github.com/keno1se/cenoApps
 
 # If I use this - 404 page not found when facebook
-url: http://keno1se.github.io/cenoApps
-enforce_ssl: https://keno1se.github.io/cenoApps
+# url: http://keno1se.github.io/cenoApps
+# enforce_ssl: https://keno1se.github.io/cenoApps
+
+# test with facebook try avoid double cenoApps 
+url: http://keno1se.github.io/
+enforce_ssl: https://keno1se.github.io/
+
+
+
 # this / at the end does not help
 # url: http://keno1se.github.io/cenoApps/
 # enforce_ssl: https://keno1se.github.io/cenoApps/
@@ -65,7 +72,7 @@ enforce_ssl: https://keno1se.github.io/cenoApps
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 # baseurl: "/reverie"
-# baseurl: "/cenoApps"
+baseurl: "/cenoApps"
 
 
 #
