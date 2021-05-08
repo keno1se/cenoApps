@@ -50,17 +50,10 @@ google_analytics: UA-43339302-11
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
 
-# url: http://github.com/keno1se/cenoApps
-# enforce_ssl: https://github.com/keno1se/cenoApps
+# this is the site url {{site.url}}
 
-# If I use this - 404 page not found when facebook
-# url: http://keno1se.github.io/cenoApps
-# enforce_ssl: https://keno1se.github.io/cenoApps
-
-# test with facebook try avoid double cenoApps 
-url: http://keno1se.github.io/
-enforce_ssl: https://keno1se.github.io/
-
+url: http://keno1se.github.io/cenoApps
+enforce_ssl: https://keno1se.github.io/cenoApps
 
 
 # this / at the end does not help
